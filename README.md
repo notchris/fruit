@@ -4,14 +4,14 @@ Throw some fruit.
 
 ## Install / run
 
-
 ```bash
 npm install
-npm run start
+npm run dev
+
+npm run build
 ```
 
 or yarn
-
 
 ## License
 
